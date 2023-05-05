@@ -6,10 +6,11 @@
   <img src="https://img.shields.io/badge/Python-f9d64e.svg?logo=python&style=flat">
   <img src="https://img.shields.io/badge/OpenCV-FF0000.svg?logo=opencv&style=flat">
   <img src="https://img.shields.io/badge/TensorFlow-aa4c00.svg?logo=tensorflow&style=flat">
-  <img src="https://img.shields.io/badge/PyTorch-f9d64e.svg?logo=pytorch&style=flat">
+  <img src="https://img.shields.io/badge/PyTorch-80ff00.svg?logo=pytorch&style=flat">
   <img src="https://img.shields.io/badge/ONNX-C51A4A.svg?logo=ONNX&style=flat">
   <img src="https://img.shields.io/badge/TensorRT-blue.svg?logo=NVIDIA&style=flat">
-  <img src="https://img.shields.io/badge/-Docker-222222.svg?logo=docker&style=flat">
+  <img src="https://img.shields.io/badge/-Docker-ab3db2.svg?logo=docker&style=flat">
+  <img src="https://img.shields.io/badge/-Kubernetes-ffff00.svg?logo=kubernetes&style=flat">
  </div>
 <br>
 
