@@ -8,12 +8,13 @@
   <img src="https://img.shields.io/badge/TensorFlow-aa4c00.svg?logo=tensorflow&style=flat">
   <img src="https://img.shields.io/badge/PyTorch-80ff00.svg?logo=pytorch&style=flat">
   <img src="https://img.shields.io/badge/ONNX-C51A4A.svg?logo=ONNX&style=flat">
-  <img src="https://img.shields.io/badge/TensorRT-ff6e83.svg?logo=NVIDIA&style=flat">
+  <img src="https://img.shields.io/badge/TensorRT-f1ffd3.svg?logo=NVIDIA&style=flat">
   <img src="https://img.shields.io/badge/-Docker-ab3db2.svg?logo=docker&style=flat">
   <img src="https://img.shields.io/badge/-Kubernetes-ffff00.svg?logo=kubernetes&style=flat">
   <img src="https://img.shields.io/badge/HTML5-e2e2e2.svg?logo=html5&style=flat">
   <img src="https://img.shields.io/badge/CSS3-ff8000.svg?logo=css3&style=flat">
   <img src="https://img.shields.io/badge/Javascript-3577c4.svg?logo=javascript&style=flat">
+  <img src="https://img.shields.io/badge/MongoDB-e1d3ff.svg?logo=mongodb&style=flat">
  </div>
 <br>
 
