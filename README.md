@@ -1,4 +1,4 @@
-# Hi there, I'm Le Cong Nguyen 👋 
+# Hi, I'm Le Cong Nguyen 👋 
 
 ![92398696-07e9ae00-f164-11ea-9f4f-42df807a6218](https://user-images.githubusercontent.com/18329471/143008836-160bb1b4-2289-4476-9777-2d9c75275916.gif)
 
@@ -14,7 +14,7 @@
  </div>
 <br>
 
-## :sassy_man: I am an AI Engineer
+## :sassy_man: I'm an AI Engineer
 <!-- ## :mailbox_with_mail: Reach me at [LinkedIn](https://www.linkedin.com/in/nguyen-le-cong-0b1731233/) -->
 ## :mailbox_with_mail: Reach me at <a href="https://www.linkedin.com/in/nguyen-le-cong-0b1731233/" target="_blank" rel="noopener">LinkedIn</a>
 ## :page_facing_up:	Review my online <a href="https://nguyenlecong.github.io/Online-CV/" target="_blank" rel="noopener">CV</a>
