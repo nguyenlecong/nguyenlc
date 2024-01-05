@@ -17,6 +17,8 @@
   <img src="https://img.shields.io/badge/Javascript-3577c4.svg?logo=javascript&style=flat">
   <img src="https://img.shields.io/badge/MongoDB-e1d3ff.svg?logo=mongodb&style=flat">
   <img src="https://img.shields.io/badge/PostgreSQL-faffef.svg?logo=postgresql&style=flat">
+  <img src="https://img.shields.io/badge/Axis Communications-d6f2ff.svg">
+  <str axis>
  </div>
 <br>
 
