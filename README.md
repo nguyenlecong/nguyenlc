@@ -12,17 +12,21 @@
     <img src="https://img.shields.io/badge/ONNX-C51A4A.svg?logo=ONNX&style=flat">
     <img src="https://img.shields.io/badge/TensorRT/TritonInferenceServer-f1ffd3.svg?logo=NVIDIA&style=flat">
   </div>
-  <div id='fullstack-dev'>
+  <div id='front-end'>
     <img src="https://img.shields.io/badge/HTML5-e2e2e2.svg?logo=html5&style=flat">
     <img src="https://img.shields.io/badge/CSS3-ff8000.svg?logo=css3&style=flat">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=flat&logoColor=white">
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-3577c4.svg?logo=javascript&style=flat">
+    <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/React-1C2400.svg?logo=react&style=flat">
-    <img src="https://img.shields.io/badge/Node.js-dc99f5.svg?logo=node.js&style=flat">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=flat">
-    <img src="https://img.shields.io/badge/MongoDB-e1d3ff.svg?logo=mongodb&style=flat">
-    <img src="https://img.shields.io/badge/PostgreSQL-faffef.svg?logo=postgresql&style=flat">
+  </div>
+  <div id='back-end'>
+      <img src="https://img.shields.io/badge/Node.js-dc99f5.svg?logo=node.js&style=flat">
+      <img src="https://img.shields.io/badge/Express.js-404D59?style=flat">
+      <img src="https://img.shields.io/badge/MongoDB-e1d3ff.svg?logo=mongodb&style=flat">
+      <img src="https://img.shields.io/badge/PostgreSQL-faffef.svg?logo=postgresql&style=flat">
   </div>
   <div id='dev-ops'>
     <img src="https://img.shields.io/badge/-Docker-ab3db2.svg?logo=docker&style=flat">
