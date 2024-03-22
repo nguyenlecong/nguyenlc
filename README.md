@@ -32,8 +32,8 @@
     <img src="https://img.shields.io/badge/-Docker-ab3db2.svg?logo=docker&style=flat">
     <img src="https://img.shields.io/badge/-Kubernetes-ffff00.svg?logo=kubernetes&style=flat">
   </div>
-  <div id='others>
-  <img src="https://img.shields.io/badge/Axis Communications-d6f2ff.svg">
+  <div id='others'>
+    <img src="https://img.shields.io/badge/Axis Communications-d6f2ff.svg">
   </div>
  </div>
 <br>
