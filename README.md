@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white">
     <img src="https://img.shields.io/badge/Javascript-3577c4.svg?logo=javascript&style=flat">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
-    <img src="https://img.shields.io/badge/Redux-593D88?style=flat&logo=redux&logoColor=white">
     <img src="https://img.shields.io/badge/React-1C2400.svg?logo=react&style=flat">
+    <img src="https://img.shields.io/badge/Hooks-593D88?style=flat&logo=hooks&logoColor=white">
   </div>
   <div id='back-end'>
       <img src="https://img.shields.io/badge/Node.js-dc99f5.svg?logo=node.js&style=flat">
