@@ -15,7 +15,7 @@
   <div id='front-end'>
     <img src="https://img.shields.io/badge/HTML5-e2e2e2.svg?logo=html5&style=flat">
     <img src="https://img.shields.io/badge/CSS3-ff8000.svg?logo=css3&style=flat">
-    <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=flat&logoColor=white">
+<!--     <img src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&style=flat&logoColor=white"> -->
 <!--     <img src="https://img.shields.io/badge/Sass-CC6699?style=flat&logo=sass&logoColor=white"> -->
     <img src="https://img.shields.io/badge/Javascript-3577c4.svg?logo=javascript&style=flat">
     <img src="https://img.shields.io/badge/jQuery-0769AD?style=flat&logo=jquery&logoColor=white">
