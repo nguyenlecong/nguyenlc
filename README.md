@@ -23,7 +23,6 @@
   </div>
   <div id='back-end'>
       <img src="https://img.shields.io/badge/Node.js & Express.js-dc99f5.svg?logo=node.js&style=flat">
-<!--       <img src="https://img.shields.io/badge/Express.js-404D59?style=flat"> -->
       <img src="https://img.shields.io/badge/MongoDB-e1d3ff.svg?logo=mongodb&style=flat">
       <img src="https://img.shields.io/badge/PostgreSQL-faffef.svg?logo=postgresql&style=flat">
   </div>
